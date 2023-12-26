@@ -1,0 +1,23 @@
+.head{
+    text-align: center;
+    color: yellow;
+    font-size: 45px;
+}
+
+*{
+    background-color: rgb(43, 59, 210);
+}
+
+.text{
+    color: white;
+    font-size: 25px;
+}
+
+.link{
+    color:white;
+    font-size: 25px;
+}
+
+.link.page{
+    text-align: center;
+}
