@@ -15,9 +15,10 @@
 
 .link{
     color:white;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .link.page{
     text-align: center;
+    font-size: 25px;
 }
